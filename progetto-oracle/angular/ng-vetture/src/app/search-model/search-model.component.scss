@@ -1,0 +1,36 @@
+.message .tooltip-inner {
+    background-color: #dc3545;
+    font-size: 1.2rem;
+}
+
+.message .arrow::before {
+    border-top-color: #dc3545;
+}
+
+.dim {
+    overflow: auto;
+}
+
+.link {
+    color: forestgreen;
+
+}
+
+.popover{
+    max-width: 80%;
+   
+}
+
+.fullfill{
+    margin-left:0;
+    margin-right:0;
+    margin-top: 0;
+}
+
+.center{
+    text-align: center;
+    
+}
+
+.black{
+    color:gray;}
